@@ -3,7 +3,7 @@
 </p>
 
 <h1>Understanding Ticketing Systems using osTicket.</h1>
-In this project I played the role of a system administrator & a Help Desk supporter. I took on the responsibility of managing user roles, departments, and tickets using osTicket. This involved creating agents and users, assigning them to specific departments, and utilizing the help desk system to address various scenarios by creating and resolving tickets.Once I created the user roles and departments, I transitioned into the process of managing tickets. For instance, I created sample tickets to mirror common user queries like software issues, account access problems, and general inquiries. Through countless repetition of this project, I was able to fully comprehend how ticketing systems operate and what a possible work day would look like for me as a help desk technician. <br />
+In this project I played the role of a system administrator & a Help Desk supporter. I took on the responsibility of managing user roles, departments, and tickets using osTicket. This involved creating agents and users, assigning them to specific departments, and utilizing the help desk system to address various scenarios by creating and resolving tickets.Once I created the user roles and departments, I transitioned into the process of managing tickets. For instance, I created sample tickets to mirror common user queries like software issues, account access problems, and general inquiries. Through countless repetition of this project, I was able to fully comprehend how ticketing systems operate and what a possible work day would look like for me as a help desk specialist. <br />
 
 <h2>Environments and Technologies Used</h2>
 
