@@ -21,7 +21,7 @@ In this project I played the role of a system administrator & a Help Desk suppor
 - Intake
 - Assignment and Communication
 - Working the Issue
-- Resolution
+- Resolving
 
 <h2>Lifecycle Stages</h2>
 - Played the role of a system admin and created users/assigned them to departments and teams.
